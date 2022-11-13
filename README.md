@@ -11,6 +11,15 @@ Feel free to Download and edit it!
 
 ## 📱 Preview
 
+> Quando o app é aberto, ele carrega os países e suas medalhas, e mostra na tela.
+![Not searched](https://i.imgur.com/8A3TNlU.jpg)
+
+> Quando o usuário digita o nome de um país, ele mostra as medalhas do país.
+![Searched](https://i.imgur.com/Z2CRiLg.jpg)
+
+> Vídeo da aplicação rodando:
+![Video](https://i.imgur.com/4KlwipM.mp4)
+
 ## Tecnologias / Technologies
 
 - React Native
